@@ -8,8 +8,8 @@ module.exports = {
         name: "Main Node"
     }],
     spotify: {
-        clientId: "a568b55af1d940aca52ea8fe02f0d93b",
-        clientSecret: "e8199f4024fe49c5b22ea9a3dd0c4789"
+        clientId: "1376968654209683557",
+        clientSecret: "41575549a2c23c2d62f2eb8d3e7a0afd0f8d40d038c196e150b54f953cd311c4"
     },
     TOKEN: "",
     embedColor: "#0061ff"
